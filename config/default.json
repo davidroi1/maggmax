@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "./public/",
+  "origins": [
+    "http://localhost:3030"
+  ],
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mongodb": "mongodb+srv://vagbabelia1_db_user:f889v34V9HWEkxMB@mag.b68v4fu.mongodb.net/?appName=ma"
+}
